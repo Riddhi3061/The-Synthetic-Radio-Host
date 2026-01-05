@@ -1,0 +1,44 @@
+# Core Dependencies
+wikipedia-api==0.6.0
+google-generativeai==0.3.2
+edge-tts>=6.1.9
+pydub==0.25.1
+certifi
+requests
+
+# Audio Processing
+ffmpeg-python==0.2.0
+
+# Async Support
+aiofiles==23.2.1
+asyncio-throttle==1.0.2
+
+# Environment Management
+python-dotenv==1.0.0
+
+# CLI
+click==8.1.7
+rich==13.7.0
+
+# Web UI
+streamlit>=1.29.0
+
+# Testing
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+
+# Development
+black==23.12.0
+isort==5.13.2
+flake8==6.1.0
+
+# Type Hints
+typing-extensions>=4.12.0
+
+# Notebook Support (for Colab)
+ipython>=7.0.0
+nest-asyncio==1.5.8
+
+
